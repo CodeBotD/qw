@@ -56,7 +56,7 @@ qw new <filename>
 ```
 Prompts if the file already exists ⚠️
 
-#💻 Installation & 🔹 Dependencies
+# 💻 Installation & 🔹 Dependencies
 
 ``
     Python 3.7+ 🐍
