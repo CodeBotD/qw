@@ -65,7 +65,7 @@ Prompts if the file already exists ⚠️
 
    `` Git (optional, for cloning repo) 🛠️
 
-🪟 Windows (Git Bash)
+# 🪟 Windows (Git Bash)
 
    `` Install [Python 3] and [Git].
 
@@ -91,7 +91,7 @@ Run:
 qw
 
 ```
-🍎 macOS
+# 🍎 macOS
 
 ``    Install Python 3 (via Homebrew brew install python or python.org).
 
@@ -130,7 +130,7 @@ Run:
 qw
 
 ```
-🐧 Linux (Debian/Ubuntu example)
+# 🐧 Linux (Debian/Ubuntu example)
 
    ``
     Install Python 3 if missing:
