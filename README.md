@@ -174,9 +174,8 @@ Run:
 qw
 
 ```
-📝 Notes & Tips
+# 📝 Notes & Tips
 
-    ```
    Prompts like This file does not exist. Create it? (y/N) happen before opening the editor. Cancel with Ctrl+C.
 
   Inside the editor: Esc or Ctrl+D exits immediately without saving.
@@ -187,6 +186,6 @@ qw
 
   Single-file and portable — ideal for quick edits.
 
-❤️ Contributing
+# ❤️ Contributing
 
 PRs and issues welcome! If you want UX tweaks (in-editor prompts, unsaved * indicator, config options), open an issue or PR.
