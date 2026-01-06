@@ -59,11 +59,11 @@ Prompts if the file already exists ⚠️
 # 💻 Installation & 🔹 Dependencies
 
 ``
-    Python 3.7+ 🐍
+   - Python 3.7+ 🐍
 
-   `` prompt_toolkit Python module ✨
+   - prompt_toolkit Python module ✨
 
-   `` Git (optional, for cloning repo) 🛠️
+   - Git (optional, for cloning repo) 🛠️
 
 # 🪟 Windows (Git Bash)
 
